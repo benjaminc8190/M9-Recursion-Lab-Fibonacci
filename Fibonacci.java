@@ -1,3 +1,10 @@
+// * CSCI 185 M02
+// * Fall 2025
+// * M9-Recursion-Lab
+// * Author: Benjamin Chau
+// * Date: 12/09/2025
+// */
+
 public class Fibonacci {
   public static int f(int n){
         if(n==0){
